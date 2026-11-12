@@ -1,0 +1,10 @@
+Blender 4.3.2 / FBX 7400 round-trip validation
+PASS: 4 meshes, 4 bones, 25,438 triangles
+PASS: UV channels on every mesh
+PASS: finite vertex coordinates
+PASS: normalized skin weights on every vertex
+PASS: Armature modifiers on every mesh
+PASS: Idle and Walk animation takes
+PASS: evaluated Walk deformation moves vertices by more than 3 cm
+PASS: Suit_BaseColor.png is 1024 x 1024 with nonconstant color values
+Unity Editor import and menu execution: NOT RUN (Unity not installed)
